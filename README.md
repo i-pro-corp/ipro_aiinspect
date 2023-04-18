@@ -8,7 +8,8 @@ i-PRO AI検査ソフトに関連するサンプルです。初心者を対象と
 ## related SALTYSTER SpeeDBee Hive
 
 **Folder：** saltyster
-**関連記事：** 
+
+**関連記事：** [SALTYSTER SpeeDBee Hive連携 － SALTYSTER SpeeDBee Hive](https://i-pro-corp.github.io/Programing-Items/aiinspect/integrate_with_speedbeehive.html)
 
 | Filename                                       | Abstract                                                                        |
 |:-----------------------------------------------|:--------------------------------------------------------------------------------|
